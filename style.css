@@ -48,7 +48,7 @@ body {
 }
 #logo {
     display: flex;
-    height: 40px;
+    max-height: 40px;
     width: auto;
 }
 #magazine{
